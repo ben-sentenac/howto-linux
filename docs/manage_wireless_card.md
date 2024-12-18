@@ -34,7 +34,9 @@ or
 sudo iwconfig <interface>
 
 ```
-
+## Important Notes About iwconfig
+While `iwconfig` is still widely used, it is considered outdated and has been mostly replaced by the newer iw tool.
+iwconfig may not work properly with all modern drivers and wireless cards. If you encounter issues, use the `iw` tool or airmon-ng as described earlier.
 ## 2 . Disable the Wireless Interface:
 
 ```sh 
