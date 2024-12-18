@@ -39,9 +39,9 @@ touch <filename>
 mkdir <directory>
 ```
 * Example:
-- `mkdir myfolder`: Creates a folder named `myfolder`.
+- `mkdir myfolder`: Creates a folder named `myfolder`
 
-### 5. Remove a File or Directory:
+### 5. Remove a File or Directory:
 * Remove a file:
 ```sh
 rm <filename>
