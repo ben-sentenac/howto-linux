@@ -10,7 +10,7 @@ Welcome to **Howto-Linux**, a helpful repository for learning and using Linux ef
    Learn to use the manual.
 2. [terminal](docs/terminal.md)
    Learn basic of the terminal and common shortcut
-3. [Basic Linux Commands](docs/basic-commands.md)  
+3. [Basic Linux Commands](docs/basic_commands.md)  
    A list of essential Linux commands to help you get started.   
 4. [File Permissions](docs/file_permissions.md)  
    Learn how to view, modify, and manage file and directory permissions in Linux.
